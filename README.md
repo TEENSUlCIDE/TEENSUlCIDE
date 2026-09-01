@@ -55,8 +55,9 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
 <div align="center">
 <details>
 <summary> 〃 </summary>
-$${\color{#2f4660} \space ill \space forever \space envy \space that \space .}$$
+$${\color{#2f4660} \space i \space love \space you \space .}$$
 </details>  
+
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -74,8 +75,3 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=20&pause=100
 <img width="900" height="auto" alt="Untitled" src="bottom.jpg" />
 </p>
 
-<div align="center">
-<details>
-<summary> 〃 </summary>
-$${\color{#2f4660} \space i \space love \space you \space .}$$
-</details>  
