@@ -1,3 +1,6 @@
+ <p align="center">
+  <img src="yay" width="180" align="center">
+
 <div align="center" ><details>
 <summary> 〃 </summary>
 $${\color{#E1C693} \space youre \space so \space incredibly \space loved \space .}$$
