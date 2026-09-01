@@ -6,7 +6,8 @@
 $${\color{#E1C693} \space youre \space so \space incredibly \space loved \space .}$$
 </details> 
 
-
+ <p align="left">
+  <img src="png 1.png" width="180" align="right">
 
 <div align="center">
 <a href="https://git.io/typing-svg" align="center">
@@ -15,8 +16,6 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
- <p align="left">
-  <img src="png 1.png" width="180" align="right">
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
