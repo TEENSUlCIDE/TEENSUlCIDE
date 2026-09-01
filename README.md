@@ -20,7 +20,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=1000&color=818955&center=false&vCenter=true&width=600&height=70&lines=2+/+/+/;I+shouldnt+have+to+Clean+them+up+like+this;You+were+laying;in+the+middle+of+the+empty+highway;The+sky+was+red+and+the+sand+was+red;and+you+were+wearing+a+brown+coat;There+were+flecks+of+foam;in+the+corners+of+your+mouth;The+birds+were+watching+you;Your+eyes+were+closed;and+you+were+listening+to+the+road;and+I+could+hear+your+breathing;I+could+hear+your+heart+beating.;I+carried+you+to+the+car+and+drove+you+home;but+you+werent+making+any+sense;I+took+a+shower+and+tried+to+catch+my+breath;You+were+lying+on+top+of+the+bedspread;In+boxer+shorts,;watching+cartoons+and+laughing;but+not+making+any+sound.;Your+skin+looked+blue;in+the+television+light;Your+teeth+looked+yellow.;Still+wet,+I+lay+down+next+to+you.;Your+arms,+your+legs,+your+naked+chest.;Your+ribs+delineated+like+a+junkyard+dogs.;\+End.+2/?;"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=1000&color=818955&center=true&vCenter=true&width=600&height=70&lines=2+/+/+/;I+shouldnt+have+to+Clean+them+up+like+this;You+were+laying;in+the+middle+of+the+empty+highway;The+sky+was+red+and+the+sand+was+red;and+you+were+wearing+a+brown+coat;There+were+flecks+of+foam;in+the+corners+of+your+mouth;The+birds+were+watching+you;Your+eyes+were+closed;and+you+were+listening+to+the+road;and+I+could+hear+your+breathing;I+could+hear+your+heart+beating.;I+carried+you+to+the+car+and+drove+you+home;but+you+werent+making+any+sense;I+took+a+shower+and+tried+to+catch+my+breath;You+were+lying+on+top+of+the+bedspread;In+boxer+shorts,;watching+cartoons+and+laughing;but+not+making+any+sound.;Your+skin+looked+blue;in+the+television+light;Your+teeth+looked+yellow.;Still+wet,+I+lay+down+next+to+you.;Your+arms,+your+legs,+your+naked+chest.;Your+ribs+delineated+like+a+junkyard+dogs.;\+End.+2/?;"
   alt="Typing SVG" />
 </a>
 
@@ -28,7 +28,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=1000&color=818955&center=false&vCenter=true&width=600&height=70&lines=3+/+/+/;Theres+nowhere+to+go,+I+thought.;Theres+nowhere+to+go;You+were+sitting+in+a+bathtub+at+the+hospital;and+you+were+crying;You+said+it+hurt;I+mean+the+buildings+that+were+not+the+hospital;I+shouldnt+have+mentioned+the+hospital;I+dont+think+I+can+take+this+much+longer;\+End.+3/?;"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=1000&color=818955&center=true&vCenter=true&width=600&height=70&lines=3+/+/+/;Theres+nowhere+to+go,+I+thought.;Theres+nowhere+to+go;You+were+sitting+in+a+bathtub+at+the+hospital;and+you+were+crying;You+said+it+hurt;I+mean+the+buildings+that+were+not+the+hospital;I+shouldnt+have+mentioned+the+hospital;I+dont+think+I+can+take+this+much+longer;\+End.+3/?;"
   alt="Typing SVG" />
 </a>
 
