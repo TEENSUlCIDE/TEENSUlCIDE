@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1500" height="auto" alt="Untitled" src="https://github.com/nikxlai/nikxlai/blob/main/fox%20top.png" />
+<img width="1500" height="auto" alt="Untitled" src="top.png" />
 </p>
 
 
