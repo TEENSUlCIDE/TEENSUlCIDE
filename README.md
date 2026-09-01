@@ -95,6 +95,6 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=20&pause=100
 </a>
 
 <p align="center">
-<img width="900" height="auto" alt="Untitled" src="top.png" />
+<img width="900" height="auto" alt="Untitled" src="bottom.jpg" />
 </p>
 
