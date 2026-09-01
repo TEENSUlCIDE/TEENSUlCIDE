@@ -1,6 +1,6 @@
 <div align="center"><details>
 <summary> 〃 </summary>
-$${\color{#2f4660} \space youre \space so \space incredibly \space loved \space .}$$
+$${\color{#E1C693} \space youre \space so \space incredibly \space loved \space .}$$
 </details> 
 
 
@@ -29,7 +29,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
 <div align="center">
 <details>
 <summary> 〃 </summary>
-$${\color{#2f4660} \space ill \space forever \space envy \space that \space .}$$
+$${\color{#E1C693} \space ill \space forever \space envy \space that \space .}$$
 </details>  
 
 <a href="https://git.io/typing-svg" align="center">
@@ -55,7 +55,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
 <div align="center">
 <details>
 <summary> 〃 </summary>
-$${\color{#2f4660} \space i \space love \space you \space .}$$
+$${\color{#E1C693} \space i \space love \space you \space .}$$
 </details>  
 
   
