@@ -69,14 +69,15 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
 src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=1000&color=818955&center=false&vCenter=true&width=600&height=70&lines=7+/+/+/;You+had+a+bottle+of+pills;but+I+wouldnt+let+you+swallow+them.;You+said+:;Will+you+love+me+even+more+when+Im+dead?;And+I+said+No,;and+I+threw+the+pills+on+the+sand;Look+at+them,+you+said.+They+look+like+emeralds;I+put+you+in+the+cage+with+the+ocelots.;I+was+trying+to+fatten+you+up;With+sausage+and+bacon;Somehow+you+escaped;and+climbed+up+the+branches+of+a+pear+tree.;I+chopped+it+down;but+there+was+no+one+in+it;I+went+to+the+riverbed;to+wait+for+you+to+show+up.;You+didnt+show+up;I+kept+waiting;.+.+.;\+End.+7/?;"
   alt="Typing SVG" />
 </a>
-
-  <a href="https://git.io/typing-svg" align="center">
-<img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=20&pause=1000&color=786245&center=true&vCenter=true&width=600&height=70&lines=I+Had+a+Dream+About+You+-+Richard+Siken."
-  alt="Typing SVG" />
 </a>
  <p align="center">
   <img src="png3.png" width="180" align="center">
+  <a href="https://git.io/typing-svg" align="center">
+   
+<img align="center"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=20&pause=1000&color=786245&center=true&vCenter=true&width=600&height=70&lines=I+Had+a+Dream+About+You+-+Richard+Siken."
+  alt="Typing SVG" />
+
 <p align="center">
 <img width="900" height="auto" alt="Untitled" src="omgbru.png" />
 </p>
