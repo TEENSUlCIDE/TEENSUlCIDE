@@ -25,11 +25,11 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=100
   alt="Typing SVG" />
 </a>
 
-
+---
 
   <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=You+were+sitting+in+a+bathtub+at+the+hospital;and+you+were+crying;You+said+it+hurt;I+mean+the+buildings+that+were+not+the+hospital;I+shouldn’t+have+mentioned+the+hospital;"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=You+were+sitting+in+a+bathtub+at+the+hospital;and+you+were+crying;You+said+it+hurt;I+mean+the+buildings+that+were+not+the+hospital;I+shouldnt+have+mentioned+the+hospital;"
   alt="Typing SVG" />
 </a>
 
@@ -37,7 +37,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=100
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=I+don’t+think+I+can+take+this+much+longer;"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=I+dont+think+I+can+take+this+much+longer;"
   alt="Typing SVG" />
 </a>
 
@@ -45,14 +45,14 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=100
 
   <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=In+the+dream+I+don’t+tell+anyone,;you+put+your+head+in+my+lap.;Let’s+say+you’re+driving+down+the+road+with+your+eyes+closed;But+my+eyes+are+also+closed;You’re+by+the+side+of+the+road;You’re+by+the+side+of+the+road;and+you’re+doing+all+the+talking;While+I+stare+at+my+shoes.;They’re+nice+shoes,+brown+and+comfortable,;and+I+like+your+voice;"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=In+the+dream+I+dont+tell+anyone,;you+put+your+head+in+my+lap.;Lets+say+youre+driving+down+the+road+with+your+eyes+closed;But+my+eyes+are+also+closed;Youre+by+the+side+of+the+road;Youre+by+the+side+of+the+road;and+youre+doing+all+the+talking;While+I+stare+at+my+shoes.;Theyre+nice+shoes,+brown+and+comfortable,;and+I+like+your+voice;"
   alt="Typing SVG" />
 </a>
 
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=In+the+dream+I+don’t+tell+anyone,;I’m+afraid+to+wake+you+up;In+these+dreams+it’s+always+you:;The+boy+in+the+sweatshirt;The+boy+on+the+bridge,;.+.+.+the+boy+who+always+keeps+me;From+jumping+off+the+bridge.;"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=In+the+dream+I+dont+tell+anyone,;Im+afraid+to+wake+you+up;In+these+dreams+its+always+you:;The+boy+in+the+sweatshirt;The+boy+on+the+bridge,;.+.+.+the+boy+who+always+keeps+me;From+jumping+off+the+bridge.;"
   alt="Typing SVG" />
 </a>
 
@@ -68,7 +68,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=100
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=I+woke+up+and+ate+ice+cream+in+the+dark;Hunched+over+on+the+wooden+chair+in+the+kitchen;Listening+to+the+rain;I+borrowed+your+shoes+and+didn’t+put+them+away;You+were+crying+and+eating+rice"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=I+woke+up+and+ate+ice+cream+in+the+dark;Hunched+over+on+the+wooden+chair+in+the+kitchen;Listening+to+the+rain;I+borrowed+your+shoes+and+didnt+put+them+away;You+were+crying+and+eating+rice"
   alt="Typing SVG" />
 </a>
 
@@ -85,7 +85,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=100
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=You+had+a+bottle+of+pills;but+I+wouldn’t+let+you+swallow+them.;You+said+Will+you+love+me+even+more+when+Im+dead?;And+I+said+No,;and+I+threw+the+pills+on+the+sand;Look+at+them,+you+said.+They+look+like+emeralds;I+put+you+in+the+cage+with+the+ocelots.;I+was+trying+to+fatten+you+up;With+sausage+and+bacon;Somehow+you+escaped+and+climbed+up+the+branches+of+a+pear+tree.;I+chopped+it+down+but+there+was+no+one+in+it"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=You+had+a+bottle+of+pills;but+I+wouldnt+let+you+swallow+them.;You+said+Will+you+love+me+even+more+when+Im+dead?;And+I+said+No,;and+I+threw+the+pills+on+the+sand;Look+at+them,+you+said.+They+look+like+emeralds;I+put+you+in+the+cage+with+the+ocelots.;I+was+trying+to+fatten+you+up;With+sausage+and+bacon;Somehow+you+escaped+and+climbed+up+the+branches+of+a+pear+tree.;I+chopped+it+down+but+there+was+no+one+in+it"
   alt="Typing SVG" />
 </a>
 
@@ -93,7 +93,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=100
 
   <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=I+went+to+the+riverbed;to+wait+for+you+to+show+up.;You+didn't+show+up;I+kept+waiting;.+.+."
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=I+went+to+the+riverbed;to+wait+for+you+to+show+up.;You+didnt+show+up;I+kept+waiting;.+.+."
   alt="Typing SVG" />
 </a>
 
