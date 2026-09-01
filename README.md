@@ -37,7 +37,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=100
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=5+/+/+/;In+the+dream+I+dont+tell+anyone,;Im+afraid+to+wake+you+up;In+these+dreams+its+always+you:;The+boy+in+the+sweatshirt;The+boy+on+the+bridge,;.+.+.+the+boy+who+always+keeps+me;From+jumping+off+the+bridge.;\+End.+5/?;"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=5aadc1&center=true&vCenter=true&width=600&height=70&lines=5+/+/+/;In+the+dream+I+dont+tell+anyone,;Im+afraid+to+wake+you+up;In+these+dreams+its+always+you:;The+boy+in+the+sweatshirt;The+boy+on+the+bridge,;.+.+.+the+boy+who+always+keeps+me;From+jumping+off+the+bridge.;\+End.+5/?;"
   alt="Typing SVG" />
 </a>
 
@@ -45,7 +45,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=100
 
   <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=6+/+/+/;Oh,+the+things+we+invent+when+we+are+scared+and+want+to+be+rescued;Your+jeep.;Your+teeth.;The+coffee+that+you+bought+me.;The+sandwich+cut+in+half+on+the+plate;I+woke+up+and+ate+ice+cream+in+the+dark;Hunched+over+on+the+wooden+chair+in+the+kitchen;Listening+to+the+rain;I+borrowed+your+shoes+and+didnt+put+them+away;You+were+crying+and+eating+rice;The+surface+of+the+water+was+still+and+bright;Your+feet+were+burning;so+I+put+my+hands+on+them,;but+my+hands;Were+burning+too;\+End.+6/?;"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=854f5a&center=true&vCenter=true&width=600&height=70&lines=6+/+/+/;Oh,+the+things+we+invent+when+we+are+scared+and+want+to+be+rescued;Your+jeep.;Your+teeth.;The+coffee+that+you+bought+me.;The+sandwich+cut+in+half+on+the+plate;I+woke+up+and+ate+ice+cream+in+the+dark;Hunched+over+on+the+wooden+chair+in+the+kitchen;Listening+to+the+rain;I+borrowed+your+shoes+and+didnt+put+them+away;You+were+crying+and+eating+rice;The+surface+of+the+water+was+still+and+bright;Your+feet+were+burning;so+I+put+my+hands+on+them,;but+my+hands;Were+burning+too;\+End.+6/?;"
   alt="Typing SVG" />
 </a>
 
