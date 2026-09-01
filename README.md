@@ -1,16 +1,16 @@
+<div align="center"><details>
+<summary> 〃 </summary>
+$${\color{#2f4660} \space youre \space so \space incredibly \space loved \space .}$$
+</details> 
+
+
 <div align="center">
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
 src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=1000&color=818955&center=false&vCenter=true&width=600&height=70&lines=1+/+/+/;All+the+cows+were+falling+out+of+the+sky;and+landing+in+the+mud.;You+were+drinking+sangria;and+I+was+throwing+oranges+at+you.;But+it+didnt+matter.;I+said+my+arms+are+very+long+and+your+heads+on+fire.;I+said+kiss+me+here+and+here+and+here,;And+you+did;Then+you+wanted+pasta;So+we+trampled+out;into+the+tomatoes;and+rolled+around+to+make+the+sauce;You+were+very+beautiful;We+were+in+the+Safeway+parking+lot.;I+couldnt+find+my+cigarettes;You+said+Hurry+up!;but+I+was+worried+there+would+be+a+holdup;And+we+would+be+stuck+in+a+hostage+situation,;hiding+behind;The+frozen+meats,;with+nothing+to+smoke+for+hours;You+said+Dont+be+silly;So+I+followed+you;into+the+store;We+were+thumping+the+melons;when+I+heard+somebody+say+Nobody+move!;I+leaned+over+and+whispered+in+your+ear;I+told+you+so.;There+was+a+show+on+the+television;about+buried+treasure.;You+were+trying+to+convince+me;that+we+should+buy+shovels;And+go+out+into+the+yard;and+I+was+trying+to+convince+you;that+I+was+a+vampire;On+the+way+to+the+hardware+store;I+kept+biting+your+arm;And+you+said;if+I+really+was+a+vampire;I+would+be+biting+your+neck;So+I+started+biting+your+neck;And+you+said+Cut+it+out!;And+you+bought+me+an+ice+cream,;and+then+we+saw+the+UFO;These+are+the+dreams+we+should+be+having.;\+End.+1/?;"
   alt="Typing SVG" />
 </a>
-
-
-
-<div align="center"><details>
-<summary> 〃 </summary>
-$${\color{#2f4660} \space youre \space so \space incredibly \space loved \space .}$$
-</details>  
+ 
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -18,11 +18,6 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
-<div align="center">
-<details>
-<summary> 〃 </summary>
-$${\color{#2f4660} \space ill \space forever \space envy \space that \space .}$$
-</details>  
 
   
 <a href="https://git.io/typing-svg" align="center">
@@ -34,7 +29,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
 <div align="center">
 <details>
 <summary> 〃 </summary>
-$${\color{#2f4660} \space even \space if \space its \space i \space \space that \space loves \space you \space .}$$
+$${\color{#2f4660} \space ill \space forever \space envy \space that \space .}$$
 </details>  
 
 <a href="https://git.io/typing-svg" align="center">
@@ -43,11 +38,6 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
-<div align="center">
-<details>
-<summary> 〃 </summary>
-$${\color{#2f4660} \space youre \space so \space incredibly \space loved \space .}$$
-</details>  
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -55,11 +45,6 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
-<div align="center">
-<details>
-<summary> 〃 </summary>
-$${\color{#2f4660} \space youre \space so \space incredibly \space loved \space .}$$
-</details>  
 
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -70,7 +55,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
 <div align="center">
 <details>
 <summary> 〃 </summary>
-$${\color{#2f4660} \space youre \space so \space incredibly \space loved \space .}$$
+$${\color{#2f4660} \space ill \space forever \space envy \space that \space .}$$
 </details>  
   
 <a href="https://git.io/typing-svg" align="center">
@@ -78,12 +63,6 @@ $${\color{#2f4660} \space youre \space so \space incredibly \space loved \space 
 src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=1000&color=818955&center=false&vCenter=true&width=600&height=70&lines=7+/+/+/;You+had+a+bottle+of+pills;but+I+wouldnt+let+you+swallow+them.;You+said+:;Will+you+love+me+even+more+when+Im+dead?;And+I+said+No,;and+I+threw+the+pills+on+the+sand;Look+at+them,+you+said.+They+look+like+emeralds;I+put+you+in+the+cage+with+the+ocelots.;I+was+trying+to+fatten+you+up;With+sausage+and+bacon;Somehow+you+escaped;and+climbed+up+the+branches+of+a+pear+tree.;I+chopped+it+down;but+there+was+no+one+in+it;I+went+to+the+riverbed;to+wait+for+you+to+show+up.;You+didnt+show+up;I+kept+waiting;.+.+.;\+End.+7/?;"
   alt="Typing SVG" />
 </a>
-
-<div align="center">
-<details>
-<summary> 〃 </summary>
-$${\color{#2f4660} \space youre \space so \space incredibly \space loved \space .}$$
-</details>  
 
   <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -95,3 +74,8 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=20&pause=100
 <img width="900" height="auto" alt="Untitled" src="bottom.jpg" />
 </p>
 
+<div align="center">
+<details>
+<summary> 〃 </summary>
+$${\color{#2f4660} \space i \space love \space you \space .}$$
+</details>  
