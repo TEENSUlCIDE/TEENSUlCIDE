@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1500" height="auto" alt="Untitled" src="top.png" />
+<img width="900" height="auto" alt="Untitled" src="top.png" />
 </p>
 
 
@@ -9,7 +9,11 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
----  
+<div align="center">
+<details>
+<summary> 〃 </summary>
+$${\color{#2f4660} \space youre \space so \space incredibly \space loved \space .}$$
+</details>  
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -17,9 +21,12 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
----
+<div align="center">
+<details>
+<summary> 〃 </summary>
+$${\color{#2f4660} \space ill \space forever \space envy \space that \space .}$$
+</details>  
 
-  
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -27,7 +34,11 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
----
+<div align="center">
+<details>
+<summary> 〃 </summary>
+$${\color{#2f4660} \space even \space if \space its \space i \space \space that \space loves \space you \space .}$$
+</details>  
 
   <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -35,7 +46,11 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
----
+<div align="center">
+<details>
+<summary> 〃 </summary>
+$${\color{#2f4660} \space youre \space so \space incredibly \space loved \space .}$$
+</details>  
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -43,7 +58,11 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
----
+<div align="center">
+<details>
+<summary> 〃 </summary>
+$${\color{#2f4660} \space youre \space so \space incredibly \space loved \space .}$$
+</details>  
 
   <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -51,7 +70,11 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
----
+<div align="center">
+<details>
+<summary> 〃 </summary>
+$${\color{#2f4660} \space youre \space so \space incredibly \space loved \space .}$$
+</details>  
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -59,7 +82,11 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
----
+<div align="center">
+<details>
+<summary> 〃 </summary>
+$${\color{#2f4660} \space youre \space so \space incredibly \space loved \space .}$$
+</details>  
 
   <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -67,4 +94,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=20&pause=100
   alt="Typing SVG" />
 </a>
 
----  
+<p align="center">
+<img width="900" height="auto" alt="Untitled" src="top.png" />
+</p>
+
