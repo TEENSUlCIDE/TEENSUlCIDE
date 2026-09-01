@@ -61,7 +61,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
 
   <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=19&pause=1000&color=786245&center=true&vCenter=true&width=600&height=70&lines=I+Had+a+Dream+About+You+-+Richard+Siken."
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=16&pause=1000&color=786245&center=true&vCenter=true&width=600&height=70&lines=I+Had+a+Dream+About+You+-+Richard+Siken."
   alt="Typing SVG" />
 </a>
 
