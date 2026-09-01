@@ -1,5 +1,7 @@
+<p align="center">
+<img width="1500" height="auto" alt="Untitled" src="https://github.com/nikxlai/nikxlai/blob/main/fox%20top.png" />
+</p>
 
----
 
   <a href="https://git.io/typing-svg" align="center">
 <img align="center"
