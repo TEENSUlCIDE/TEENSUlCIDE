@@ -53,7 +53,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=100
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=7+/+/+/;You+had+a+bottle+of+pills;but+I+wouldnt+let+you+swallow+them.;You+said+Will+you+love+me+even+more+when+Im+dead?;And+I+said+No,;and+I+threw+the+pills+on+the+sand;Look+at+them,+you+said.+They+look+like+emeralds;I+put+you+in+the+cage+with+the+ocelots.;I+was+trying+to+fatten+you+up;With+sausage+and+bacon;Somehow+you+escaped+and+climbed+up+the+branches+of+a+pear+tree.;I+chopped+it+down+but+there+was+no+one+in+it;I+went+to+the+riverbed;to+wait+for+you+to+show+up.;You+didnt+show+up;I+kept+waiting;.+.+.;\+End.+7/?;"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=7+/+/+/;You+had+a+bottle+of+pills;but+I+wouldnt+let+you+swallow+them.;You+said+Will+you+love+me+even+more+when+Im+dead?;And+I+said+No,;and+I+threw+the+pills+on+the+sand;Look+at+them,+you+said.+They+look+like+emeralds;I+put+you+in+the+cage+with+the+ocelots.;I+was+trying+to+fatten+you+up;With+sausage+and+bacon;Somehow+you+escaped;and+climbed+up+the+branches+of+a+pear+tree.;I+chopped+it+down;but+there+was+no+one+in+it;I+went+to+the+riverbed;to+wait+for+you+to+show+up.;You+didnt+show+up;I+kept+waiting;.+.+.;\+End.+7/?;"
   alt="Typing SVG" />
 </a>
 
