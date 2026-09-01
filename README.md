@@ -71,7 +71,8 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
 src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=20&pause=1000&color=786245&center=true&vCenter=true&width=600&height=70&lines=I+Had+a+Dream+About+You+-+Richard+Siken."
   alt="Typing SVG" />
 </a>
-
+ <p align="center">
+  <img src="png3.png" width="180" align="center">
 <p align="center">
 <img width="900" height="auto" alt="Untitled" src="omgbru.png" />
 </p>
