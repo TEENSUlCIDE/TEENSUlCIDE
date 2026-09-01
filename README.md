@@ -37,7 +37,7 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=100
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=5aadc1&center=true&vCenter=true&width=600&height=70&lines=5+/+/+/;In+the+dream+I+dont+tell+anyone,;Im+afraid+to+wake+you+up;In+these+dreams+its+always+you:;The+boy+in+the+sweatshirt;The+boy+on+the+bridge,;.+.+.+the+boy+who+always+keeps+me;From+jumping+off+the+bridge.;\+End.+5/?;"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=448cb0&center=true&vCenter=true&width=600&height=70&lines=5+/+/+/;In+the+dream+I+dont+tell+anyone,;Im+afraid+to+wake+you+up;In+these+dreams+its+always+you:;The+boy+in+the+sweatshirt;The+boy+on+the+bridge,;.+.+.+the+boy+who+always+keeps+me;From+jumping+off+the+bridge.;\+End.+5/?;"
   alt="Typing SVG" />
 </a>
 
