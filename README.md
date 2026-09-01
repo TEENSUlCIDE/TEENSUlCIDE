@@ -1,4 +1,4 @@
-<div align="center"><details>
+<div align="center" ><details>
 <summary> 〃 </summary>
 $${\color{#E1C693} \space youre \space so \space incredibly \space loved \space .}$$
 </details> 
@@ -45,6 +45,8 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
 <summary> 〃 </summary>
 $${\color{#E1C693} \space i \space love \space you \space .}$$
 </details>  
+
+
   
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
@@ -52,6 +54,8 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
+<p align="center">
+  <img src="png2.png" width="180" align="center">
 
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
